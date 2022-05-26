@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "4JX7W43LFU.br.com.safranet.ipad",
-      "paths": ["deeplink/*"]
+      "paths": ["/deeplink/*"]
     },
     {
       "appID": "3KLNTMNJK4.br.com.safranet.ipad.hml.enterprise",
